@@ -4,7 +4,7 @@ Built this project using React.js
 
 **Authentication**
 
-For ```login``` & ```sign-up``` I am using Auth0
+For ```login``` & ```sign-up``` Authentication using ```Auth0```
 
 --> https://auth0.com/
 
